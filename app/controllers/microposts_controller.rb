@@ -15,6 +15,7 @@ class MicropostsController < ApplicationController
     @micropost = Micropost.new
   end
 
+  
   # GET /microposts/1/edit
   def edit
   end
